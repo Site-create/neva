@@ -18,29 +18,36 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 	font-family: inherit;
 	vertical-align: baseline;
 }
+
 :focus {
 	outline: 0;
 }
+
 body {
 	line-height: 1;
 	color: black;
 	background: white;
 }
+
 ol, ul {
 	list-style: none;
 }
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
 caption, th, td {
 	text-align: left;
 	font-weight: normal;
 }
+
 blockquote:before, blockquote:after,
 q:before, q:after {
 	content: "";
 }
+
 blockquote, q {
 	quotes: "" "";
 }
