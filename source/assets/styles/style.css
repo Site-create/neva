@@ -78,7 +78,7 @@ a:hover {
 }
 
 body {
-	background: url(../img/main-back.png) center center no-repeat fixed;
+	background: url(../images/main-back.png) center center no-repeat fixed;
 	-o-background-size: 100% 100%;
 	-webkit-background-size: 100% 100%;
 	-khtml-background-size: 100% 100%;
@@ -87,8 +87,8 @@ body {
 }
 
 * html .wrapper {
-	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/main-back.png',sizingMethod='scale')";
-	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/main-back.png', sizingMethod='scale');
+	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/main-back.png',sizingMethod='scale')";
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/main-back.png', sizingMethod='scale');
 	background-image: none;
 }
 
@@ -177,14 +177,14 @@ body {
 	padding-top: 45px;
 	bottom: 40px;
 
-	background: url(../img/down-arrow.png) center top no-repeat;
+	background: url(../images/down-arrow.png) center top no-repeat;
 	text-align: center;
 	color: #fff;
 	text-align: center;
 }
 
 .products {
-	background: url(../img/coriander.png) no-repeat	center center no-repeat fixed;
+	background: url(../images/coriander.png) no-repeat	center center no-repeat fixed;
 	-o-background-size: 100% 100%;
 	-webkit-background-size: 100% 100%;
 	-khtml-background-size: 100% 100%;
@@ -210,7 +210,7 @@ body {
 
 	position: absolute;
 	margin: 125px 0 0 170px;
-	background: url(../img/left-arrow.png) left top no-repeat;
+	background: url(../images/left-arrow.png) left top no-repeat;
 }
 
 .products-navigation--next {
@@ -219,7 +219,7 @@ body {
 
 	position: absolute;
 	margin: 125px 0 0 820px;
-	background: url(../img/right-arrow.png) left top no-repeat;
+	background: url(../images/right-arrow.png) left top no-repeat;
 }
 
 .products-item {
@@ -310,7 +310,7 @@ body {
 .delivers-map {
 	margin-top: -188px;
 
-	background: url(../img/map.png) left top no-repeat;
+	background: url(../images/map.png) left top no-repeat;
 
 }
 
@@ -500,7 +500,7 @@ body {
 	margin-right: 140px;
 
 	font-size: 18px;
-	background: url(../img/phone.png) center top no-repeat;
+	background: url(../images/phone.png) center top no-repeat;
 	font-family: "pf_square_sans_proMdIt";
 }
 
@@ -510,7 +510,7 @@ body {
 	margin-right: 80px;
 	padding-top: 125px;
 
-	background: url(../img/mail.png) center top no-repeat;
+	background: url(../images/mail.png) center top no-repeat;
 	font-size: 18px;
 	font-family: "pf_square_sans_proMdIt";
 
@@ -523,7 +523,7 @@ body {
 	padding-top: 140px;
 	margin-top: -15px;
 
-	background: url(../img/address.png) center top no-repeat;
+	background: url(../images/address.png) center top no-repeat;
 	font-size: 18px;
 	font-family: "pf_square_sans_proMdIt";
 	text-align: center;
@@ -564,7 +564,7 @@ body {
 	margin-left: 160px;
 	margin-bottom: 10px;
 
-	background: url(../img/small-logo.png) left top no-repeat;
+	background: url(../images/small-logo.png) left top no-repeat;
 }
 
 .footer-wrap--author {
@@ -586,11 +586,11 @@ body {
 	position: absolute;
 	margin: -215px 0 0 -170px;
 
-	background: url(../img/left-arrow.png) left top no-repeat;
+	background: url(../images/left-arrow.png) left top no-repeat;
 }
 
 .slidesjs-previous.slidesjs-navigation:hover {
-	background: url(../img/left-arrow-active.png) left top no-repeat;
+	background: url(../images/left-arrow-active.png) left top no-repeat;
 }
 
 .slidesjs-next.slidesjs-navigation {
@@ -600,11 +600,11 @@ body {
 	position: absolute;
 	margin: -215px 0 0 540px;
 
-	background: url(../img/right-arrow.png) left top no-repeat;
+	background: url(../images/right-arrow.png) left top no-repeat;
 }
 
 .slidesjs-next.slidesjs-navigation:hover {
-	background: url(../img/right-arrow-active.png) left top no-repeat;
+	background: url(../images/right-arrow-active.png) left top no-repeat;
 }
 
 .slidesjs-pagination {
